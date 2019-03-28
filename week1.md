@@ -17,4 +17,6 @@ title: Week 1
 {% include week01/exercise/03-counting-characters.md %}
 {: .exercises }
 
+{% include week01/exercise/04-matrix-sum.md %}
+{: .exercises }
 End of week 1
