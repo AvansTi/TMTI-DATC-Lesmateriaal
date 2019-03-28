@@ -14,7 +14,7 @@ title: Week 1
 {% include week01/exercise/02-number-validator.md %}
 {: .exercises }
 
-{% include week01/exercise/03-counting.characters.md %}
+{% include week01/exercise/03-counting-characters.md %}
 {: .exercises }
 
 End of week 1
