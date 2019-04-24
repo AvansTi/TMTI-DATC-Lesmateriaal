@@ -1,6 +1,6 @@
 >> ### Exercise 3-2 Evaluate expression
 >>
->> Modify the `EvaluateExpression.cpp` in Github examples in week 3 (HelloConstructor). Make the following changes;
+>> Modify the `Expression.cpp` in Github examples in week 3 (Expression). Make the following changes;
 >> * Add the operator **^** for exponent
 >> * Add the operator **%** for modulus.
 >>
