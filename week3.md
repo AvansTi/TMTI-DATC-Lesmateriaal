@@ -9,7 +9,7 @@ title: Week 3
 # Assignments week 3
 
 {% include week03/exercise/01-dynamic-array.md %}
-{% include week03/exercise/02-evaluate-expression.md %}
+
 
 {: .exercises }
 
