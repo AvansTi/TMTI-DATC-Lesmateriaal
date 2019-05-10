@@ -4,5 +4,10 @@ Dit is het lesmateriaal van het vak Datastructuren & C++. Het lesmateriaal is be
 ## lessen
 
 - [Les 1 - C++, IO, FileIO, Arrays](week1)
+- [Les 2 - Strings, Vector, Iterators, class en objects](week2)
+- [Les 3 - Memory Management, Algorithms, (Copy)constructor, destructor, smart pointers](week3)
+- [Les 4 - Operator overloading](week4)
+- [Les 5](week5)
+- [Les 6](week6)
 
 [Eindopdracht](Eindopdracht)

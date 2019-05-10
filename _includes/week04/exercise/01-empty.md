@@ -1,4 +1,4 @@
->> ### Exercise 3-1 Dynamic array
+>> ### Exercise 4-1 Empty
 >>
 >> Revise the `Course` class implementation given on the Github examples in week 3 (HelloConstructor) as follows:
 >>
