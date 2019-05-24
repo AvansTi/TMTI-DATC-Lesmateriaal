@@ -8,7 +8,8 @@ title: Week 4
 
 # Assignments week 4
 
-{% include week04/exercise/01-empty.md %}
+{% include week04/exercise/01-shape.md %}
+{% include week04/exercise/02-huffman-coding.md %}
 {: .exercises }
 
 End of week 4
