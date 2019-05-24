@@ -10,7 +10,6 @@
 >> * A constant function named `getPerimeter()` that returns the perimeter of the triangle.
 >>
 >> Write a test program to verify all functionallity.
-
 >> File Shape.h
 >>
 >> ```cpp
@@ -71,5 +70,5 @@
 >>  return "Shape";
 >>}
 >>```
-
+>>
 >{: .exercise}
