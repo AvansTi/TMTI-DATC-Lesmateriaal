@@ -1,4 +1,4 @@
->> ### Exercise 4-1 Empty
+>> ### Exercise 6-1 Empty
 >>
 >> Revise the `Course` class implementation given on the Github examples in week 3 (HelloConstructor) as follows:
 >>
