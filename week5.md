@@ -8,10 +8,7 @@ title: Week 5
 
 # Assignments week 5
 
-{% include week05/exercise/01-unit-test.md %}
-{% include week05/exercise/02-lambda.md %}
-{% include week05/exercise/03-rule350.md %}
-{% include week05/exercise/04-threads.md %}
+{% include week05/exercise/01-empty.md %}
 {: .exercises }
 
 End of week 5
